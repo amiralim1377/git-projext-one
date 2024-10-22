@@ -3,3 +3,11 @@ body {
   font-family: sans-serif;
   display: flex;
 }
+
+header {
+  background-color: red;
+}
+
+.slider {
+  background-color: yellow;
+}
